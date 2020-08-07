@@ -81,7 +81,7 @@
                     text
                     dense
                     retain-focus-on-click
-                    href="https://e-commerce-site-vuejs.netlify.app/"
+                    href="http://embarrassed-camera.surge.sh"
                   >{{ item.title2 }}</v-btn>
                   <v-list-item-content></v-list-item-content>
                 </v-list-item>
@@ -105,7 +105,7 @@ export default {
       drawer: null,
       items: [
         { title: "TodoList" },
-        { title2: "Ecommerce" }
+        { title2: "The Venue" }
         // { title: "Home", link: "dashboard" },
         // { title: "About", link: "question_answer" }
       ]
